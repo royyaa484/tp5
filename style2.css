@@ -1,0 +1,12 @@
+img{    width: 300px;
+    max-width: 300px;
+    height: auto;
+    border-radius: 3px;
+    box-shadow: 0 0 3px black;
+    margin: auto;
+    display: block;
+
+}
+img:hover{
+    transform: scale(1.08);
+}
